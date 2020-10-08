@@ -1,0 +1,7 @@
+prefix=//home.rrze.uni-erlangen.de/ix41orar/Documents/libs/installs
+includedir=${prefix}/include
+
+Name: GLM
+Description: OpenGL Mathematics
+Version: 0.9.9
+Cflags: -I${includedir}
